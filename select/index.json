@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Underdrain",
+  "base_artist": "Albemuth",
+  "createdAt": "2026-03-31T05:29:10.902437Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Underdrain",
+      "artist": "Albemuth, 存流, 明透",
+      "has_synced": false,
+      "path": "select/pl_01_Underdrain_Albemuth,_存流,_明透.txt"
+    }
+  ]
+}
